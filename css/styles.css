@@ -57,6 +57,7 @@ a:hover{
   width: 70%;
   position: relative;
   margin: 100px auto 0 auto;
+  padding-bottom: 0;
 }
 .cloud{
   position: absolute;
